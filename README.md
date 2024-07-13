@@ -1,0 +1,1 @@
+# aws-bastion-host-nat-gateway-setup
